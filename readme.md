@@ -31,7 +31,7 @@ To install this project, follow these steps:
 
 ## Usage
 
-1. [localhost:](http://localhost:8000/university)- you need to pass location to the api body so it will return the university list as per location. 
+1.  you need to pass location to the api body so it will return the university list as per location. 
 
 
 
